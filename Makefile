@@ -339,6 +339,7 @@ bootloaders_update: \
 	matek_h743_bootloader \
 	matek_h743-mini_bootloader \
 	matek_h743-slim_bootloader \
+	matek_h743-wing_bootloader \
 	modalai_fc-v2_bootloader \
 	mro_ctrl-zero-classic_bootloader \
 	mro_ctrl-zero-h7_bootloader \

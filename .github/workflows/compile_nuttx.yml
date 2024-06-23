@@ -48,6 +48,7 @@ jobs:
           matek_h743,
           matek_h743-mini,
           matek_h743-slim,
+          matek_h743-wing,
           modalai_fc-v1,
           modalai_fc-v2,
           mro_ctrl-zero-classic,
